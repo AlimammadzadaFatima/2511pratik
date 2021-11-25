@@ -1,0 +1,19 @@
+header{
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+.logo,
+.nav{
+    display: inline-block;
+    width: 48%;
+}
+.nav ul li {
+display: inline-block;
+margin:0 10px;
+list-style: none;
+}
+.nav ul li a{
+    color: white;
+    text-decoration: none;
+}
